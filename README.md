@@ -1,26 +1,26 @@
 # Christopher Gani Leonardo
 Mahasiswa Computer Science Binus University, spesialisasi Database Technology, dengan sertifikasi bootcamp Data Science and Machine Learning dari Purwadhika. Pencari magang yang antusias, cepat belajar, dan siap berkontribusi dalam tim teknologi dengan tujuan untuk mendapatkan pengalaman praktis dalam pengembangan database dan analisis data untuk mempersiapkan karir di industri teknologi.
 
-edukasi
-Sarjana Teknik Informatica, Universitas Bina Nusantara
+## edukasi
+- Sarjana Teknik Informatica, Universitas Bina Nusantara
 IPK 3.11 / 4.00
 Mata Kuliah Relevan : Database Design, Data Analytics, Machine Learning, Data Mining, Big Data
 September 2022 - September 2026
-Sertifikasi Data Science dan Machine Learning, 
+- Sertifikasi Data Science dan Machine Learning, 
 Purwadhika Digital Technology School
 Nilai Akhir 80.6 / 100
 Pembelajaran Relevan : Python Fundamental, Data Analyst, Machine Learning
 Oktober 2021 - Februari 2022
 
 
-Keahlian
+## Keahlian
 Bahasa: Indonesia, English
 Pemograman : C, Python, Jupyter Notebook, Visualization, Java, SQL, Spark, R
 Software Pemograman : DevC, Python, Eclipse, Tableau, Cisco, VScode, Rstudio
 Software Lainnya : Microsoft PowerPoint, Microsoft Excel, Google Workspace, Canva, Adobe Premiere & Photoshop, Capcut
 
 
-Project bersama selama kuliah
+## Project bersama selama kuliah
 - Cancer Detection Web App
 Deskripsi: Website mendeteksi kanker usus dan paru-paru dari foto jaringan menggunakan model CNN.
 Bahasa Pemrograman & Tools: HTML, CSS, JavaScript, Python (TensorFlow, Keras, Jupyter Notebook).
@@ -38,7 +38,7 @@ Deskripsi: Aplikasi web untuk membandingkan harga bahan makanan di dua supermark
 Bahasa Pemrograman & Tools: HTML, CSS, JavaScript (Frontend), MySQL (Backend, database).
 
 
-pengalaman Lainnya
+## pengalaman Lainnya
 - YouTube Channel : Lawakz ( Sedang Berjalan )
 Mencapai 20.5 juta views dalam 90 hari terakhir
 Menambah 10.1 ribu subscribers dengan konten komedi yang menghibur
