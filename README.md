@@ -1,4 +1,4 @@
-# Who-Am-I
+# Christopher Gani Leonardo
 Mahasiswa Computer Science Binus University, spesialisasi Database Technology, dengan sertifikasi bootcamp Data Science and Machine Learning dari Purwadhika. Pencari magang yang antusias, cepat belajar, dan siap berkontribusi dalam tim teknologi dengan tujuan untuk mendapatkan pengalaman praktis dalam pengembangan database dan analisis data untuk mempersiapkan karir di industri teknologi.
 
 edukasi
