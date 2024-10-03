@@ -21,18 +21,21 @@ Software Lainnya : Microsoft PowerPoint, Microsoft Excel, Google Workspace, Canv
 
 
 ## Project bersama selama kuliah
-- Cancer Detection Web App
-Deskripsi: Website mendeteksi kanker usus dan paru-paru dari foto jaringan menggunakan model CNN.
-Bahasa Pemrograman & Tools: HTML, CSS, JavaScript, Python (TensorFlow, Keras, Jupyter Notebook).
+- Olist E-commerce Customer Segmentation
+Deskripsi: Segmentasi pelanggan menggunakan RFM Analysis dan KMeans clustering untuk meningkatkan efektivitas pemasaran.
+Bahasa Pemrograman & Tools: Python (Pandas, KMeans, Seaborn, Jupyter Notebook).
 - Global Happiness Index Analysis
 Deskripsi: Analisis faktor kebahagiaan dunia, terutama rendahnya indeks di Asia Timur dan Pasifik, serta cluster berdasarkan GDP, kesehatan, dan kebebasan.
 Bahasa Pemrograman & Tools: Python (Pandas, Matplotlib, Scikit-learn, Jupyter Notebook).
 - Player Rating Prediction
 Deskripsi: Analisis performa model machine learning untuk memprediksi rating pemain dari atribut lain, dengan Gradient Boosting Regressor sebagai model terbaik.
 Bahasa Pemrograman & Tools: Python (Scikit-learn, Matplotlib, Pandas, Jupyter Notebook).
-- Olist E-commerce Customer Segmentation
-Deskripsi: Segmentasi pelanggan menggunakan RFM Analysis dan KMeans clustering untuk meningkatkan efektivitas pemasaran.
-Bahasa Pemrograman & Tools: Python (Pandas, KMeans, Seaborn, Jupyter Notebook).
+- Who Survived the Titanic?
+Deskripsi: Analisis data penumpang Titanic untuk melihat faktor-faktor yang mempengaruhi kelangsungan hidup, seperti jenis kelamin, kelas, usia, dan status bepergian. 
+Bahasa Pemrograman & Tools: Python (Pandas, Seaborn, Matplotlib, Scikit-learn, Jupyter Notebook).
+- Cancer Detection Web App
+Deskripsi: Website mendeteksi kanker usus dan paru-paru dari foto jaringan menggunakan model CNN.
+Bahasa Pemrograman & Tools: HTML, CSS, JavaScript, Python (TensorFlow, Keras, Jupyter Notebook).
 - BudgetMart Grocery Comparison App
 Deskripsi: Aplikasi web untuk membandingkan harga bahan makanan di dua supermarket, dilengkapi fitur pembayaran dan layanan lokasi.
 Bahasa Pemrograman & Tools: HTML, CSS, JavaScript (Frontend), MySQL (Backend, database).
